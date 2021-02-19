@@ -1,5 +1,5 @@
 {
-  "name": "@monorepo-semantic-example/core",
+  "name": "monorepo-semantic-release-core",
   "version": "0.0.0",
   "description": "",
   "scripts": {
