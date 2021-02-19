@@ -6,8 +6,7 @@
   ],
   "description": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "release": "semantic-release -e semantic-release-monorepo"
+    "release": "yarn workspaces run semantic-release -e semantic-release-monorepo"
   },
   "author": "",
   "license": "ISC",
