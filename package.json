@@ -3,6 +3,7 @@
   "workspaces": [
     "packages/*"
   ],
+  "private": "true",
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
